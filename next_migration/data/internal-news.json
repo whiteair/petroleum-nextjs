@@ -1,0 +1,54 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Springfield successful in drilling",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-20",
+      "category": "Exploration"
+    },
+    {
+      "id": 2,
+      "title": "Local Content Conference is over",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-18",
+      "category": "Events"
+    },
+    {
+      "id": 3,
+      "title": "Springfield successful in drilling",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-15",
+      "category": "Exploration"
+    },
+    {
+      "id": 4,
+      "title": "Local Content Conference is over",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-12",
+      "category": "Events"
+    },
+    {
+      "id": 5,
+      "title": "Springfield successful in drilling",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-10",
+      "category": "Exploration"
+    },
+    {
+      "id": 6,
+      "title": "Local Content Conference is over",
+      "description": "The information pertaining to the deconstruction of the main assets",
+      "image": "/images/default-150x150.png",
+      "publishedAt": "2024-10-08",
+      "category": "Events"
+    }
+  ],
+  "description": "Internal news items shown on admin dashboard sidebar",
+  "usage": "Import for dashboard news feed and news pages"
+}

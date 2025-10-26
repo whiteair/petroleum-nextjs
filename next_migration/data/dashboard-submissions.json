@@ -1,0 +1,87 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "companyName": "Tullow Ghana",
+      "reportType": "2019 Local Content Plan",
+      "dateSubmitted": "2019-12-11",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "companyId": 2,
+      "companyName": "Saida Oil and Gas Ghana Company Limited",
+      "reportType": "2018 Local Content Plan",
+      "dateSubmitted": "2019-11-10",
+      "status": "declined"
+    },
+    {
+      "id": 3,
+      "companyId": 3,
+      "companyName": "Genesis Oil & Gas Services",
+      "reportType": "2018 Local Content Plan",
+      "dateSubmitted": "2019-12-11",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "companyId": 4,
+      "companyName": "Bayfield Oil services",
+      "reportType": "2019 Local Content Performance Report",
+      "dateSubmitted": "2019-12-11",
+      "status": "approved"
+    },
+    {
+      "id": 5,
+      "companyId": 5,
+      "companyName": "Ghana Oil Company LTD",
+      "reportType": "2020 Local Content Plan",
+      "dateSubmitted": "2019-12-11",
+      "status": "declined"
+    },
+    {
+      "id": 6,
+      "companyId": 1,
+      "companyName": "Tullow Ghana",
+      "reportType": "2019 Local Content Performance Report",
+      "dateSubmitted": "2019-12-11",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "companyId": 2,
+      "companyName": "Saida Oil and Gas Ghana Company Limited",
+      "reportType": "2018 Local Content Plan",
+      "dateSubmitted": "2019-11-10",
+      "status": "declined"
+    },
+    {
+      "id": 8,
+      "companyId": 3,
+      "companyName": "Genesis Oil & Gas Services",
+      "reportType": "2018 Local Content Plan",
+      "dateSubmitted": "2019-12-11",
+      "status": "approved"
+    },
+    {
+      "id": 9,
+      "companyId": 4,
+      "companyName": "Bayfield Oil services",
+      "reportType": "2019 Local Content Performance Report",
+      "dateSubmitted": "2019-12-11",
+      "status": "approved"
+    },
+    {
+      "id": 10,
+      "companyId": 5,
+      "companyName": "Ghana Oil Company LTD",
+      "reportType": "2020 Local Content Plan",
+      "dateSubmitted": "2019-12-11",
+      "status": "declined"
+    }
+  ],
+  "statusTypes": ["pending", "approved", "declined"],
+  "description": "Recent report submissions shown on admin dashboard",
+  "usage": "Import this data in /admin/dashboard page submissions table"
+}
