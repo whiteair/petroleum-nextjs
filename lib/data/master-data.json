@@ -199,7 +199,7 @@
       "id": 1,
       "title": "Springfield successful in drilling",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-1.svg",
       "publishedAt": "2024-10-20",
       "category": "Exploration"
     },
@@ -207,7 +207,7 @@
       "id": 2,
       "title": "Local Content Conference is over",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-2.svg",
       "publishedAt": "2024-10-18",
       "category": "Events"
     },
@@ -215,7 +215,7 @@
       "id": 3,
       "title": "Springfield successful in drilling",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-3.svg",
       "publishedAt": "2024-10-15",
       "category": "Exploration"
     },
@@ -223,7 +223,7 @@
       "id": 4,
       "title": "Local Content Conference is over",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-4.svg",
       "publishedAt": "2024-10-12",
       "category": "Events"
     },
@@ -231,7 +231,7 @@
       "id": 5,
       "title": "Springfield successful in drilling",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-5.svg",
       "publishedAt": "2024-10-10",
       "category": "Exploration"
     },
@@ -239,7 +239,7 @@
       "id": 6,
       "title": "Local Content Conference is over",
       "description": "The information pertaining to the deconstruction of the main assets",
-      "image": "/images/default-150x150.png",
+      "image": "/images/news/news-6.svg",
       "publishedAt": "2024-10-08",
       "category": "Events"
     }
