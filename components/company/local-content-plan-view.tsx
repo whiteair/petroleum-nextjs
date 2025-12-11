@@ -359,7 +359,7 @@ export function LocalContentPlanView({ reportTitle, onBack }: LocalContentPlanVi
                       <div className="text-right py-3 px-4 text-sm font-semibold">Expenditure</div>
                     </div>
                   </div>
-                  <div className="bg-white">
+                  <div className="bg-card">
                     <div className="border-b hover:bg-muted/50 transition-colors">
                       <div className="grid grid-cols-3 gap-2 py-3 px-4">
                         <div className="text-sm font-medium">Ghanaians</div>
@@ -423,7 +423,7 @@ export function LocalContentPlanView({ reportTitle, onBack }: LocalContentPlanVi
                       <th className="text-left py-3 px-4 text-sm font-semibold">Gender</th>
                     </tr>
                   </thead>
-                  <tbody className="bg-white">
+                  <tbody className="bg-card">
                     {staffList.map((staff, index) => (
                       <tr key={index} className="border-b hover:bg-muted/50 transition-colors">
                         <td className="py-3 px-4 text-sm text-muted-foreground">{index + 1}</td>
