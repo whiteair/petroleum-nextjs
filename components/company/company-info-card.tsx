@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, Phone, Globe, MapPin, FileText, Hash, Building } from "lucide-react";
+import { Mail, Phone, Globe, MapPin, FileText, Hash, Building, Briefcase, Calendar, User } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Company } from "@/types";
 
@@ -39,7 +39,10 @@ export function CompanyInfoCard({ company }: CompanyInfoCardProps) {
           <CardTitle className="text-lg">Company Information</CardTitle>
         </CardHeader>
         <CardContent className="space-y-0">
+          <InfoItem icon={User} label="CEO" value="Kwame Mensah" />
           <InfoItem icon={Building} label="Registered Name" value={company.registeredName} />
+          <InfoItem icon={Briefcase} label="Services" value={company.servicesProvided} />
+          <InfoItem icon={Calendar} label="Incorporation Date" value={new Date(company.incorporationDate).toLocaleDateString("en-GB")} />
           <InfoItem icon={Mail} label="Email" value={company.email} />
           <InfoItem icon={Phone} label="Telephone" value={company.telephone} />
           <InfoItem icon={Globe} label="Website" value={company.website} />

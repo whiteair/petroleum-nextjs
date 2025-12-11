@@ -66,7 +66,7 @@ export default function LoginPage() {
           quality={90}
         />
         {/* Gradient Overlay for better contrast */}
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/90 via-blue-800/85 to-slate-900/90" />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/40 via-blue-800/35 to-slate-900/40" />
       </div>
 
       {/* Login Card */}
@@ -104,20 +104,6 @@ export default function LoginPage() {
               className="cursor-pointer hover:bg-secondary/80"
             >
               Admin
-            </Badge>
-            <Badge
-              onClick={() => handleQuickLogin("operator")}
-              variant="secondary"
-              className="cursor-pointer hover:bg-secondary/80"
-            >
-              Operator
-            </Badge>
-            <Badge
-              onClick={() => handleQuickLogin("contractor")}
-              variant="secondary"
-              className="cursor-pointer hover:bg-secondary/80"
-            >
-              Contractor
             </Badge>
             <Badge
               onClick={() => handleQuickLogin("service")}

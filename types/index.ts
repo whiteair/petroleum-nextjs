@@ -39,6 +39,11 @@ export interface Company {
   totalEmployees: number;
   ghanaianEmployees: number;
   status: string;
+  contracts?: {
+    total: number;
+    active: number;
+    past: number;
+  };
 }
 
 export interface NewsItem {

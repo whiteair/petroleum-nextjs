@@ -20,12 +20,12 @@ export function CompanyProfile({ company }: CompanyProfileProps) {
       <Card>
         <CardContent className="p-6">
           <div className="flex flex-col items-center text-center">
-            <div className="relative w-32 h-32 mb-4 bg-gray-100 rounded-lg overflow-hidden">
+            <div className="relative w-32 h-32 mb-4 rounded-full overflow-hidden border-[3px] border-blue-900">
               <Image
                 src={company.logo}
                 alt={company.name}
                 fill
-                className="object-contain p-4"
+                className="object-cover rounded-full"
                 sizes="128px"
               />
             </div>
